@@ -7,8 +7,8 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="#instructions">Instructions</a></li>
-        <li><a href="#about">Purpose</a></li>
-        <li><a href="#requirements">Requirements</a></li>
+        <li><a href="#purpose-of-the-project">Purpose Of the Project</a></li>
+        <li><a href="#requirements--report">Requirements & Report</a></li>
     </ol>
 </details>
 
