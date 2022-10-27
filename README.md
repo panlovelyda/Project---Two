@@ -6,13 +6,13 @@
 <details>
     <summary>Table of Contents</summary>
     <ol>
-        <li><a href="instructions">Instructions</a></li>
+        <li><a href="#instructions">Instructions</a></li>
         <li><a href="#about">Purpose</a></li>
         <li><a href="#requirements">Requirements</a></li>
     </ol>
 </details>
 
-<!-- Instructions -->
+<!-- instructions -->
 ## Instructions
 * <code>inflation.ipynb</code> This script cleans the csv file inflation.csv found in the Resources folder and loads the clean dataframe into PostgreSQL relational database.
 * <code>interest.ipynb</code> This script cleans the csv file interest.csv found in the Resources folder and loads the clean dataframe into PostgreSQL relational database.
